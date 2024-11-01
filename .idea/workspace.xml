@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d3a479b-6e20-4cb1-9509-769399ef4c28" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mood/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mood/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mood/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mood/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730422143435</updated>
       <workItem from="1730422144521" duration="638000" />
-      <workItem from="1730422804038" duration="1471000" />
+      <workItem from="1730422804038" duration="1789000" />
     </task>
     <servers />
   </component>
