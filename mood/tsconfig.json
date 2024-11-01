@@ -20,6 +20,8 @@
     "paths": {
       "@/*": ["./*"]
     },
+    "typeRoots": ["./node_modules/@types", "./types"]
+    },
     "types": [
         "@cloudflare/workers-types/2023-07-01"
     ]
